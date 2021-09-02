@@ -1,0 +1,15 @@
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\bin\Debug\AdministradorDeProductos.exe.config
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\bin\Debug\AdministradorDeProductos.exe
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\bin\Debug\AdministradorDeProductos.pdb
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\obj\Debug\AdministradorDeProductos.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\obj\Debug\AdministradorDeProductos.Properties.Resources.resources
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\obj\Debug\AdministradorDeProductos.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\obj\Debug\AdministradorDeProductos.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\obj\Debug\AdministradorDeProductos.exe
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\obj\Debug\AdministradorDeProductos.pdb
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\bin\Debug\Dominio.dll
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\bin\Debug\Estructura.dll
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\bin\Debug\Dominio.pdb
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\bin\Debug\Estructura.pdb
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\obj\Debug\AdministradorDeProductos.Form1.resources
+C:\Users\franc\source\repos\AdministradorDeProductos\AdministradorDeProductos\obj\Debug\AdministradorDeProductos.csproj.CopyComplete

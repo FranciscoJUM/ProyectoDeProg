@@ -1,0 +1,9 @@
+C:\Users\franc\source\repos\AdministradorDeProductos\Estructura\bin\Debug\Estructura.dll
+C:\Users\franc\source\repos\AdministradorDeProductos\Estructura\bin\Debug\Estructura.pdb
+C:\Users\franc\source\repos\AdministradorDeProductos\Estructura\bin\Debug\Dominio.dll
+C:\Users\franc\source\repos\AdministradorDeProductos\Estructura\bin\Debug\Dominio.pdb
+C:\Users\franc\source\repos\AdministradorDeProductos\Estructura\obj\Debug\Estructura.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\AdministradorDeProductos\Estructura\obj\Debug\Estructura.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\AdministradorDeProductos\Estructura\obj\Debug\Estructura.csproj.CopyComplete
+C:\Users\franc\source\repos\AdministradorDeProductos\Estructura\obj\Debug\Estructura.dll
+C:\Users\franc\source\repos\AdministradorDeProductos\Estructura\obj\Debug\Estructura.pdb
